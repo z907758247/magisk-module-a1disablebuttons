@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=a1diablebuttons
+name=Disable Xiaomi A1 nav buttons
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=edmael
+description=Module that disable backlight and function of the Xiaomi A1 navigation buttons
 minMagisk=1500

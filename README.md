@@ -1,9 +1,7 @@
-# Magisk Module Template
+# Disable Xiaomi A1 nav buttons
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+This module disable both the backlight and the function of the Xiaomi A1 navigation buttons.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+You can easily edit this module (or ask me to edit it) to keep the buttons enabled and change the layout (to obtain the classic "Back - Home - Menu") or just disable the backlight.
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Tested on Oreo january and december builds (should also work on Nougat).
